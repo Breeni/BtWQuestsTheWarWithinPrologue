@@ -1,4 +1,4 @@
-## Interface: 110205, 110207
+## Interface: 110205, 110207, 120000
 ## Title: BtWQuests: The War Within Prologue
 ## Version: @project-version@
 ## Notes: The War Within Prologue quest data for BtWQuests
