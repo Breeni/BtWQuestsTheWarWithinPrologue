@@ -1,6 +1,6 @@
-## Interface: 110205, 110207, 120000
+## Interface: 110205, 110207, 120005
 ## Title: BtWQuests: The War Within Prologue
-## Version: @project-version@
+## Version: 1.2
 ## Notes: The War Within Prologue quest data for BtWQuests
 ## Author: Breen
 ## Dependencies: BtWQuests
